@@ -1,2 +1,16 @@
 # Iris-Image-Processing
 A program in C# to use the Iris-Image-Processing-Lib
+
+The following screen shot shows how the program is used to load an iris image sample
+![promisechains](https://github.com/IhabMoha/Iris-Image-Processing/blob/master/Screen%20Shots/iris_1.PNG)
+
+
+The second step is to detect and isolate the pupil area as shown in the following screen shot where the program automatically open multiple windows and automatically align them to show the steps:
+
+![promisechains](https://github.com/IhabMoha/Iris-Image-Processing/blob/master/Screen%20Shots/iris_2.PNG)
+
+
+The last step is to detect and isolate the iris area. Again the program automatically open multiple windows and show the steps:
+
+![promisechains](https://github.com/IhabMoha/Iris-Image-Processing/blob/master/Screen%20Shots/iris_3.PNG)
+
