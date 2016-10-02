@@ -14,3 +14,5 @@ The last step is to detect and isolate the iris area. Again the program automati
 
 ![promisechains](https://github.com/IhabMoha/Iris-Image-Processing/blob/master/Screen%20Shots/iris_3.PNG)
 
+
+The steps and details of every step is documented in the prgram and the library, please feel free to download and use both of them.
